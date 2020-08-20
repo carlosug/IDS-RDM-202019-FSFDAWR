@@ -60,7 +60,7 @@ The curriculum for these students will be:
 
 ### Level: Beginner
 
-## Course Syllabus
+## [Course Syllabus](Course_Syllabus.ipynb)
 
 
 
