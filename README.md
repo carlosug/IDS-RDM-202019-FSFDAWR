@@ -60,7 +60,7 @@ The curriculum for these students will be:
 
 ### Level: Beginner
 
-## [Course Syllabus](Course_Syllabus.ipynb)
+## [Course Syllabus](https://colab.research.google.com/github/carlosug/IDS-RDM-202019-FSFDAWR/blob/master/Course_Syllabus.ipynb)
 
 
 
