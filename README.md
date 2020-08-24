@@ -34,8 +34,15 @@ The curriculum for these students will be:
 - Loop functions in R
 - Inferential Statistics
 
+## Level: Beginner
 
-## Course details
+## Duration: 5 weeks
+
+## Weekly study: 2 hours
+
+## Course type: online
+
+## Course details:
 
 ### Modules: 5
 
@@ -58,7 +65,7 @@ The curriculum for these students will be:
 | [Inferential Statistics II](inputs/tutorials/Workshop5.docx) | 06:30| How to conduct and interpret linear & logistic regression?  |
 
 
-### Level: Beginner
+
 
 ## [Course Syllabus](https://colab.research.google.com/github/carlosug/IDS-RDM-202019-FSFDAWR/blob/master/Course_Syllabus.ipynb)
 
