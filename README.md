@@ -40,7 +40,7 @@ The curriculum for these students will be:
 
 ## Weekly study: 2 hours
 
-## Course type: online
+## Course type: Online
 
 ## Course details:
 
