@@ -1,0 +1,29 @@
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix asf: <http://projects.apache.org/ns/asfext#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+
+<https://w3id.org/umids/project/ids-rdm-202019-foundation-skills-for-data-analysis-with-r>
+  a doap:Project ;
+  doap:name "IDS-RDM-202019 Foundation Skills for Data Analysis with R" ;
+  doap:description '''Repository for Foundation Skills for Data Analysis with R as part of University Library Modules''' ;
+  bibo:status "Active" ;
+
+  doap:programming-language "R" ;
+  doap:license <https://github.com/carlosug/IDS-RDM-202019-FSFDAWR/blob/master/LICENSE> ;
+  doap:bug-database <https://github.com/carlosug/IDS-RDM-202019-FSFDAWR/issues> ;
+  doap:homepage <https://carlosug.github.io/IDS-RDM-202019-FSFDAWR/> ;
+  
+  
+  
+  
+  doap:category "Education" ;
+  doap:repository [
+    a doap:GitRepository ;
+    doap:location <https://github.com/carlosug/IDS-RDM-202019-FSFDAWR> ;
+  ] ;
+  doap:maintainer [
+    a foaf:Person ;
+    foaf:name "Carlos Utrilla Guerrero" ;
+    foaf:mbox <mailto:c.utrillaguerrero@maastrichtuniversity.nl>
+  ] .
